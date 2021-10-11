@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Armar aplicacion de Tarear",
+        "estado": "en progeso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    }
+]
+
+
